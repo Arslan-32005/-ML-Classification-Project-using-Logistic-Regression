@@ -1,2 +1,3 @@
-# -ML-Classification-Project-using-Logistic-Regression
+# ML-Classification-Project-using-Logistic-Regression
 A machine learning project that classifies Iris flower species using Logistic Regression.
+Developed a classification model that predicts iris flower species (Setosa, Versicolor, Virginica) based on sepal and petal measurements. Applied Logistic Regression algorithm with complete ML pipeline: data exploration, feature normalization, 80-20 train-test split, model training, and rigorous evaluation using accuracy, precision, recall, and confusion matrix analysis. Demonstrates proficiency in supervised learning, statistical evaluation, and foundational machine learning concepts.
